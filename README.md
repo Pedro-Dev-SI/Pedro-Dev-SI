@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋 
+My name is Pedro Selvate, I live in Brazil, I'm currently taking a bachelor's degree in information systems, I'm an intern at a technology consultancy.
 
-<!--
-**Pedro-Dev-SI/Pedro-Dev-SI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always prepared to learn and to face new challanges on this big tech world.
 
-Here are some ideas to get you started:
+### Languages and Tools
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Cplusplus" width="36px" src="https://image.flaticon.com/icons/png/512/919/919841.png" />
+<img align="left" alt="Java" width="36px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" alt="Python" width="36px" src="https://image.flaticon.com/icons/png/128/1822/1822899.png" />
+<img align="left" alt="GIT" width="36px" src="https://image.flaticon.com/icons/png/512/4494/4494740.png" />
+<img align="left" alt="VSCode" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+

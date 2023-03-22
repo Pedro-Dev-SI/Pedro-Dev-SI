@@ -1,5 +1,5 @@
 # Hi there 👋 
-My name is Pedro Selvate, I live in Brazil, I'm currently taking a bachelor's degree in information systems, I'm a Jr Fullstack Developer
+My name is Pedro Selvate, I live in Brazil, I'm currently taking a bachelor's degree in information systems, I work as a Fullstack Developer Jr
 
 I'm always prepared to learn and to face new challanges on this big tech world.
 
